@@ -1,0 +1,3 @@
+- & - An unconditional conjunction. The next pipeline is always executed after the current one has completed executing.
+- && - A positive conditional conjunction. The next pipeline is executed if the current one completes executing with a zero exit status.
+- || - A negative conditional conjunction. The next pipeline is executed if the current one completes executing with a non-zero exit status.

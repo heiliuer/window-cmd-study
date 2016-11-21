@@ -1,0 +1,9 @@
+ 驱动器 E 中的卷是 开发
+ 卷的序列号是 000B-DF1C
+
+ E:\Projects\my-githubs\window-cmd-study\002grammer 的目录
+
+2016/11/21  14:01                31 001Quoting and escaping.bat
+2016/11/21  14:23               694 002Syntax.bat
+               2 个文件            725 字节
+               0 个目录 60,420,943,872 可用字节
